@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi, I am a person who loves everything related to technology and I am also a fullstack and mobile developer. On this Github, I share my activities as a developer." <br>🌱 Android and Flutter Enthusiat<br>💬 Ask me on mail : fajririnaldichan@gmail.com / fajri@gariskode.com<br>⚡ Founder at gariskode.com
+"Hi, I am a person who loves everything related to technology and I am also a fullstack and mobile developer. On this Github, I share my activities as a developer." <br>🌱 Android and Flutter Enthusiat<br>💬 Ask me on mail : fajririnaldichan@gmail.com / fajri@gariskode.com<br>⚡ Project Manager at gariskode.com
 
 
 ## 🌐 Socials:
